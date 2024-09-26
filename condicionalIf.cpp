@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
-void main(void) {
+void main(void) {Hola :D
+
 	int numeroC = 0;
 
 	printf("Numero de cuenta: ", numeroC);
