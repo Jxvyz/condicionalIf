@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-void main(void) {Hola :D
+void main(void) { ("Hola :D");
 
 	int numeroC = 0;
 
